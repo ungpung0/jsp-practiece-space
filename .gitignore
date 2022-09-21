@@ -19,5 +19,27 @@
 *.tar.gz
 *.rar
 
+# Package Folder
+out/
+build/
+
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# Configuration Files
+*.xml
+*.properties
+*.gradle
+*.gradlew
+*.bat
+gradlew
+
+# Configuration Folder
+.gradle/
+gradle/
+
+# IntelliJ Files
+*.iml
+
+# IntelliJ Folder
+.idea/
